@@ -6,7 +6,7 @@ Bem-vindo ao repositório do Jogo da Memória! Este projeto contém a criação 
 
 ## 🚀 Começando
 
-Para jogar basta acessar o link: [Site]()
+Para jogar basta acessar o link: [Jogo da Memória](https://dudazt.github.io/Jogo-da-Memoria/)
 
 Como Jogar: Clique nas cartinhas para encontrar seu par, até encontrar todos os pares!
 
